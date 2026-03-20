@@ -31,7 +31,7 @@
 
 ## Introduction 🚀
 
-If you're a developer looking for the most Powerful & comprehensive [Free MUI NextJS Admin Dashboard Template](https://themeselection.com/item/materio-free-mui-nextjs-admin-template) built for developers, rich with features, and highly customizable, look no further than Materio. We've followed the highest industry standards to bring you the very best admin template that is not only easy to use but highly scalable. Offering ultimate convenience and flexibility, you'll be able to build whatever application you want with very little hassle.
+If you're a developer looking for the most powerful and comprehensive [Free MUI NextJS Admin Dashboard Template](https://themeselection.com/item/materio-free-mui-nextjs-admin-template) built for developers, rich with features, and highly customizable, look no further than Materio. We've followed the highest industry standards to bring you the very best admin template that is not only easy to use but highly scalable. Offering ultimate convenience and flexibility, you'll be able to build any application you want with very little hassle.
 
 Build premium quality applications with ease. Use one of the most innovative [NextJS admin templates](https://themeselection.com/item/category/next-js-admin-template) to create eye-catching, high-quality WebApps. Your apps will be completely responsive, ensuring they'll look stunning and function flawlessly on desktops, tablets, and mobile devices.
 
@@ -62,7 +62,7 @@ Materio provides a template with TypeScript and JavaScript.
 
 ## Installation ⚒️
 
-Installing and running the template is super easy in Materio, please follow these steps and you should be ready to rock 🤘:
+Installing and running the template is super easy with Materio. Please follow these steps and you should be ready to rock 🤘:
 
 1. Make sure you have installed Node.js (LTS). If Node.js is already installed in your system, make sure the installed version is LTS (and not the latest version)
 2. Navigate to the `typescript-version` or `javascript-version` folder and run the following command to install our local dependencies listed in the `package.json` file. You can use `pnpm`, `yarn` or `npm` as per your preference
@@ -121,7 +121,7 @@ Installing and running the template is super easy in Materio, please follow thes
 | Single vertical menu                 | Vertical (+ vertical collapsed) & Horizontal menu                   |
 | Default skin                         | Default, bordered & semi-dark skin                                  |
 | 1 simple dashboard                   | 5 niche dashboards                                                  |
-| -                                    | 10 Applications including eCommerce, academy, email, chat, calendar, invoice, kanban, etc. |
+| -                                    | 10 applications including eCommerce, academy, email, chat, calendar, invoice, kanban, etc. |
 | Simple form layouts                  | Advanced form layouts, form validation & form wizard                |
 | Basic cards                          | Basic, advanced, statistics, charts, gamification & action cards    |
 | -                                    | Quick search - quickly navigate between pages (with hotkey support) |
@@ -157,7 +157,7 @@ Check out our [Deployment docs](https://demos.themeselection.com/materio-mui-nex
 
 ## Contributing 🦸
 
-Contribution are always welcome and recommended! Here is how:
+Contributions are always welcome and recommended! Here is how:
 
 * Fork the repository ([here is the guide](https://docs.github.com/en/get-started/quickstart/fork-a-repo)).
 * Clone to your machine `git clone https://github.com/YOUR_USERNAME/REPO_NAME` Make your changes
@@ -167,7 +167,7 @@ Contribution are always welcome and recommended! Here is how:
 
 * When you contribute, you agree to give a non-exclusive license to ThemeSelection to use that contribution in any context as we (ThemeSelection) see appropriate.
 * If you use content provided by another party, it must be appropriately licensed using an open source license.
-* Contributions are only accepted through Github pull requests.
+* Contributions are only accepted through GitHub pull requests.
 * Finally, contributed code must work in all supported browsers (see above for browser support).
 
 ## Changelog 📆
@@ -182,7 +182,7 @@ For free products, enjoy community support via GitHub issues. Upgrade to Premium
 
 - Copyright © [ThemeSelection](https://themeselection.com/)
 - Licensed under [MIT](LICENSE)
-- All our free items are Open Source and licensed under MIT. You can use our free items for personal as well as commercial purposes. We just need an attribution from your end. Copy the below link and paste it at the footer of your web application or project.
+- All our free items are Open Source and licensed under MIT. You can use our free items for personal as well as commercial purposes. We just need attribution from your end. Copy the link below and paste it in the footer of your web application or project.
    ```html
   <a href="https://themeselection.com/">ThemeSelection</a>
    ```
